@@ -1,0 +1,10 @@
+.mb-2{
+    |
+    width: 500px;
+}
+hr{
+    font-family: 'Comic Sans', Courier, monospace;
+}
+.darkcolor{
+    background-color: rgb(9, 9, 106) !important;
+}
